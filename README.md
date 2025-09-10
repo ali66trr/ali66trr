@@ -1,6 +1,6 @@
 👨‍💻 Entwickler | 🚀 Open-Source-Enthusiast | 💡 Always Learning  
 
-👋 Hi, ich bin [Dein Name]! Ich liebe es, sauberen Code zu schreiben, spannende Projekte zu entwickeln und mein Wissen mit der Community zu teilen.  
+👋 Hi, ich bin Ali! Ich liebe es, sauberen Code zu schreiben, spannende Projekte zu entwickeln und mein Wissen mit der Community zu teilen.  
 
 🔹 Schwerpunkt: Python, C# 
 🔹 Lieblingsprojekte: Cybersecurity  
